@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/app.js"
+  "scripts": {     
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
@@ -20,3 +19,4 @@
     "nodemon": "^1.19.1"
   }
 }
+
